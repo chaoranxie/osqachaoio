@@ -40,4 +40,6 @@ pip-log.txt
 .Spotlight-V100
 .Trashes
 
-
+#osqa log
+osqa/log
+osqa/log/django.osqa.log
