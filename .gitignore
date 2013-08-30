@@ -43,3 +43,4 @@ pip-log.txt
 #osqa log
 osqa/log
 osqa/log/django.osqa.log
+osqa/cache/
